@@ -19,8 +19,8 @@ permalink: /questions/general-questions/index.html
 - How would you optimize a website's assets/resources?
 - How many resources will a browser download from a given domain at a time?
   - What are the exceptions?
-    ANS: It depends on the browser and the network conditions, if we take parallel downloading then it is usually around 6 to 8
-    resources per domain at a time.
+- ANS: It depends on the browser and the network conditions, if we take parallel downloading then it is usually around 6 to 8
+  resources per domain at a time.
 - Name 3 ways to decrease page load (perceived or actual load time).
 - If you jumped on a project and they used tabs and you used spaces, what would you do?
 - Describe how you would create a simple slideshow page.
