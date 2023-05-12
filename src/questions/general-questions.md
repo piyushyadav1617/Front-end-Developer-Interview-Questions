@@ -19,14 +19,21 @@ permalink: /questions/general-questions/index.html
 - How would you optimize a website's assets/resources?
 - How many resources will a browser download from a given domain at a time?
   - What are the exceptions?
-- _ANS_: It depends on the browser and the network conditions, if we take parallel downloading then it is usually around 6 to 8
-  resources per domain at a time.
+  - ANS: It depends on the browser and the network conditions, if we take parallel downloading then it is usually around 6 to 8
+    resources per domain at a time.
 - Name 3 ways to decrease page load (perceived or actual load time).
 - If you jumped on a project and they used tabs and you used spaces, what would you do?
 - Describe how you would create a simple slideshow page.
 - If you could master one technology this year, what would it be?
 - Explain the importance of standards and standards bodies.
 - What is Flash of Unstyled Content? How do you avoid FOUC?
+
+  - ANS: FOUC stands for Flash of Unstyled Content and occurs when a web page is briefly displayed without its intended CSS styles. It can be a jarring experience for users and can make a website feel unprofessional or incomplete.
+
+  To avoid FOUC, there are several strategies that web developers can employ. One approach is to use inline styles in the HTML to ensure that the page is styled before any external CSS files are loaded. Another strategy is to use server-side rendering, which generates the final HTML with styles before sending it to the client. Finally, developers can also use JavaScript to dynamically load CSS files after the page has loaded, but this can add additional complexity to the code.
+
+  Overall, the key to avoiding FOUC is to make sure that the page is styled as quickly as possible, whether that is through inline styles, server-side rendering, or dynamic loading of CSS files.
+
 - Explain what ARIA and screenreaders are, and how to make a website accessible.
 - Explain some of the pros and cons for CSS animations versus JavaScript animations.
 - What does CORS stand for and what issue does it address?
