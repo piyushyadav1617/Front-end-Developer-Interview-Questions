@@ -36,6 +36,7 @@ permalink: /questions/general-questions/index.html
 
 - Explain what ARIA and screenreaders are, and how to make a website accessible.
   - ARIA stands for Accessible Rich Internet Applications. It is a set of guidelines and technical specifications developed by the World Wide Web Consortium (W3C) to make web content and web applications more accessible to people with disabilities, such as visual impairments or motor impairments. ARIA provides a way to add metadata and attributes to web content, which can be interpreted by assistive technologies such as screen readers to help users with disabilities interact with web applications.
+    Screen readers are assistive technologies that help people with visual impairments to access and navigate digital content, such as web pages, documents, and applications. A screen reader is a software program that reads the content of a computer screen aloud using synthesized speech or a refreshable Braille display.
 - Explain some of the pros and cons for CSS animations versus JavaScript animations.
 - What does CORS stand for and what issue does it address?
 - How did you handle a disagreement with your boss or your collaborator?
