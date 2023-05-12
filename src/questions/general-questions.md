@@ -35,6 +35,7 @@ permalink: /questions/general-questions/index.html
   Overall, the key to avoiding FOUC is to make sure that the page is styled as quickly as possible, whether that is through inline styles, server-side rendering, or dynamic loading of CSS files.
 
 - Explain what ARIA and screenreaders are, and how to make a website accessible.
+  - ARIA stands for Accessible Rich Internet Applications. It is a set of guidelines and technical specifications developed by the World Wide Web Consortium (W3C) to make web content and web applications more accessible to people with disabilities, such as visual impairments or motor impairments. ARIA provides a way to add metadata and attributes to web content, which can be interpreted by assistive technologies such as screen readers to help users with disabilities interact with web applications.
 - Explain some of the pros and cons for CSS animations versus JavaScript animations.
 - What does CORS stand for and what issue does it address?
 - How did you handle a disagreement with your boss or your collaborator?
