@@ -41,8 +41,13 @@ permalink: /questions/general-questions/index.html
   - ANS: CSS animations are easy to implement and fast, but limited in complexity and flexibility. JavaScript animations offer more control and flexibility, but can be more difficult to implement and slower than CSS animations. The choice depends on the project's needs and requirements.
 - What does CORS stand for and what issue does it address?
   - ANS: CORS stand for cross-origin resource sharing. It s a security feature implemented in web browsers that prevents a webpage from accessing resources (such as data or files) from another domain, unless that domain specifically allows it.
-- How did you handle a disagreement with your boss or your collaborator?
+- How would you handle a disagreement with your boss or your collaborator?
+  - ANS: I would try to communicate properly with all the facts I can gather about the issue and also try to understand the other side. I would also consider asking a third party about the disagreement.
 - What resources do you use to learn about the latest in front end development and design?
+  - ANS: I usually use different resources like documentations, videos,reddit, some already made prpjects by others. But it really depends upon the technology.
 - What skills are needed to be a good front-end developer?
+  - ANS: I think a good front-end developer should be able to develop applications in any modern libraries like React, and should be able to handle APIs properly, a basic backend knowlendge is good, and writing styles in a clean way.
 - What role do you see yourself in?
+  - ANS: I see myslef as a frontend developer and in future as a full stack developer and maybe able to develop more efficient applications.
 - Explain the difference between cookies, session storage, and local storage?
+  - ANS: Cookies, session storage, and local storage are all ways to store data on the client-side, but they differ in their size limits, lifespan, and accessibility. Cookies are small text files that are sent to the server with every request, while session storage and local storage are not. Session storage is deleted when the user closes the browser, while local storage can persist even after the browser is closed.
